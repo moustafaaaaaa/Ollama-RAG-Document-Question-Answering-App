@@ -51,7 +51,7 @@ ollama-rag/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/ollama-rag.git
+git clone https://github.com/<moustafaaaaaa>/ollama-rag.git
 cd ollama-rag
 
 2️⃣ Create and activate a virtual environment
